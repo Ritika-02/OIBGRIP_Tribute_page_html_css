@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+.main{
+    margin:  20px auto;
+    padding: 20px;
+    width: 40%;
+    box-shadow: 0px 0px 0px 2px #ffff;
+}
+
+.title{
+    text-align: center;
+}
+
+.image{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 15px;
+    background-color: black;
+    margin-top: 1rem;
+    color: black;
+}
+
+img{
+    max-width: 100%;
+    display: block;
+}
+
+h2{
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.bio{
+    line-height: 20px;
+}
